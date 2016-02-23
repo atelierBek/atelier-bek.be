@@ -1,0 +1,45 @@
+
+
+@font-face {
+  font-family: 'hk-light';
+  src: url('HKGrotesk-Light-webfont.eot');
+  src: url('HKGrotesk-Light-webfont.eot?#iefix') format('embedded-opentype'),
+  url('HKGrotesk-Light-webfont.woff') format('woff'),
+  url('HKGrotesk-Light-webfont.ttf') format('truetype'),
+  url('HKGrotesk-Light-webfont.svg#HKGrotesk-Light-webfont') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'hk-regular';
+  src: url('HKGrotesk-Regular-webfont.eot');
+  src: url('HKGrotesk-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+  url('HKGrotesk-Regular-webfont.woff') format('woff'),
+  url('HKGrotesk-Regular-webfont.ttf') format('truetype'),
+  url('HKGrotesk-Regular-webfont.svg#HKGrotesk-Regular-webfont') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'hk-Medium';
+  src: url('HKGrotesk-Medium-webfont.eot');
+  src: url('HKGrotesk-Medium-webfont.eot?#iefix') format('embedded-opentype'),
+  url('HKGrotesk-Medium-webfont.woff') format('woff'),
+  url('HKGrotesk-Medium-webfont.ttf') format('truetype'),
+  url('HKGrotesk-Medium-webfont.svg#HKGrotesk-Medium-webfont') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'hk-bold';
+  src: url('HKGrotesk-Bold-webfont.eot');
+  src: url('HKGrotesk-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+  url('HKGrotesk-Bold-webfont.woff') format('woff'),
+  url('HKGrotesk-Bold-webfont.ttf') format('truetype'),
+  url('HKGrotesk-Bold-webfont.svg#HKGrotesk-Light-webfont') format('svg');
+  font-weight: bold;
+  font-style: normal;
+}

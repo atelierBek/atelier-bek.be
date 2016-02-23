@@ -1,0 +1,41 @@
+@import url('fontes/hkgrotesk/stylesheet.css');
+
+img{
+  position:fixed;
+  z-index: -100;
+}
+
+ul{
+  position: relative;
+  z-index: 0;
+  color: white;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  margin: 15px 10px;
+  font-size: 22px;
+  font-family: 'hk-Medium';
+}
+
+a{
+  color: white;
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: underline;
+}
+
+iframe{
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+
+.membres{
+  font-family: 'hk-Regular';
+}
+
+.cache{
+  color: rgba(0, 0, 0, 0);
+}
