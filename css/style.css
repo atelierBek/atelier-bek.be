@@ -1,41 +1,113 @@
 @import url('fontes/hkgrotesk/stylesheet.css');
 
-img{
+body {
+    background-color: black;
+    color: white;
+}
+
+#atelier{
+  display: none;
   position:fixed;
   z-index: -100;
 }
 
-ul{
-  position: relative;
+#map{
+  position: fixed;
+  right: 20px;
+  top: 20px;
+  width: 400px;
+  height:330px;
+  border: 1px solid black;
+  z-index: 100;
+}
+
+/* COLONNE GAUCHE : INFO MEMBRES LINKS */
+
+#left{
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  line-height: 1.2;
+  width: 300px;
+}
+
+#left ul{
   z-index: 0;
-  color: white;
   list-style: none;
-  margin: 0;
-  padding: 0;
-  margin: 15px 10px;
+  margin-bottom: 30px;
   font-size: 22px;
-  font-family: 'hk-Medium';
 }
 
-a{
-  color: white;
+#left a{
   text-decoration: none;
+  color: white;
 }
 
-a:hover{
+#left a:hover{
   text-decoration: underline;
 }
 
-iframe{
-  position: absolute;
-  right: 10px;
-  top: 10px;
+#left .info {
+  font-family: 'hk-Medium';
 }
 
-.membres{
+#left .membres {
   font-family: 'hk-Regular';
 }
 
-.cache{
-  color: rgba(0, 0, 0, 0);
+#left .links {
+  font-family: 'hk-Regular';
+}
+
+/* COLONNE DROITE : POSTS */
+
+#posts{
+    position: absolute;
+    top: 20px;
+    left: 360px;
+    width: 500px;
+    width: calc(100% - 820px);
+    font-size: 22px;
+}
+
+#posts .post {
+    margin-bottom: 80px;
+}
+
+#posts .post .uploadDateTime {
+    font-family: 'hk-Regular';
+    text-transform: uppercase;
+}
+
+#posts .post .text {
+    font-family: 'hk-Medium';
+    margin-top: 5px;
+    white-space: pre-wrap;
+}
+
+#posts .post .images {
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+#posts .post .images .image {
+    width: 200px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border: 1px solid black;
+}
+
+#posts .post .files {
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+#posts .post .file {
+    font-family: 'hk-Regular';
+    text-decoration: none;
+    color: white;
+}
+
+#posts .post .file:hover {
+    text-decoration: underline;
 }
