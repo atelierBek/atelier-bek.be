@@ -7,6 +7,10 @@ les posts sont stockés dans le dossier atelier-bek.be/post.xml/datas.
 atelier-bek.be/php/posts.php récupère les posts du dossier datas et les displays sur
 atelier-bel.be/index.php.
 
+## /!\ attention /!\
+
+rien n'est sécurisé pour l'instant ne pas mettre en ligne 
+
 ## to do
 
 - images display
