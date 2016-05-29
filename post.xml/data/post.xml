@@ -111,4 +111,25 @@ http://www.atelier-bek.be/pads.html</text>
     <text>discussion/préparation conférence Alexandre et Étienne le 22 à l'ERG.&#13;
 </text>
   </post>
+  <post>
+    <uniqid>56f9501b66600</uniqid>
+    <uploadDateTime>160328173907</uploadDateTime>
+    <author>Étienne</author>
+    <tag>test</tag>
+    <text>écrire les posts depuis la page atelier-bek.be/post.xml/index.php. les posts sont stockés dans le dossier atelier-bek.be/post.xml/datas. atelier-bek.be/php/posts.php récupère les posts du dossier datas et les displays sur atelier-bel.be/index.php.</text>
+  </post>
+  <post>
+    <uniqid>56fba70af1ff1</uniqid>
+    <uploadDateTime>160330121434</uploadDateTime>
+    <author>Étienne</author>
+    <tag>construction</tag>
+    <text>En pleine construction de bancs, chaises et bar pour la Perruque #1! </text>
+  </post>
+  <post>
+    <uniqid>56fbb90e7cc1d</uniqid>
+    <uploadDateTime>160330133126</uploadDateTime>
+    <author>Alex</author>
+    <tag>fezlk</tag>
+    <text>Super</text>
+  </post>
 </root>

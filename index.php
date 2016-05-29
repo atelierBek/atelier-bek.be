@@ -23,6 +23,7 @@
 	    <li>Cecilia Borettaz</li>
 	    <li>Maria Delamarre</li>
 	    <li><a href="http://antoine-gelgon.fr/" target="_blank">Antoine Gelgon</a></li>
+	    <li>Fanny Devaux</li>
 	    <li>Émile Greis</li>
 	    <li>Alice Lapalu</li>
 	    <li><a href="http://cargocollective.com/alexandreliziard" target="_blank">Alexandre Liziard</a></li>
@@ -30,6 +31,7 @@
 	    <li><a href="http://romainmarula.fr/" target="_blank">Romain Marula</a></li>
 	    <li><a href="http://etienneozeray.fr" target="_blank">Étienne Ozeray</a></li>
 	    <li><a href="http://baptiste-tosi.eu/" target="_blank">Baptiste Tosi</a></li>
+	    <li>Marie Trossat</li>
 	    <li><a href="https://morganetrouillet.wordpress.com/" target="_blank">Morgane Trouillet</a></li>
 	    <li>Stéphanie Vérin</li>
 	    <li><a href="http://www.xxx-clairewilliams-xxx.com/" target="_blank">Claire Williams</a></li>
